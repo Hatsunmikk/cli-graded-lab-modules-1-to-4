@@ -1,2 +1,3 @@
-i) This command displays my currently logged-in username, user ID (UID), and group memberships. It confirms that I am logged in with my own user account.
+i) User identity verification -
+   This command displays my currently logged-in username, user ID (UID), and group memberships. It confirms that I am logged in with my own user account.
 
