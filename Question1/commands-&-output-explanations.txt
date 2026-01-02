@@ -27,8 +27,9 @@ output explanation: wc -c counts the number of characters in a file.
 
 v) Learning the tools - 
 command : man mkdir
-output description: The manual page for mkdir was supposed to be displayed but no manual entry was found.
-output explanation: The terminal recommended 'man 7 undocumented' for help when manual pages are not available.
+output description: The command returned a message indicating that the manual page for mkdir is not available in this lab environment.
+output explanation: This command attempts to access the manual page for the mkdir command. Although the manual page is not installed in this environment, a commonly used option is -p, which creates parent directories if they do not already exist.
+
 
 vi) Home Directory Inspection - 
 command : ls ~
