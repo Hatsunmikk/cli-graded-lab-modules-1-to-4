@@ -1,2 +1,0 @@
-i) User identity verification -
-  uid=1000(coder) gid=1000(coder) groups=1000(coder) ,27(sudo)
